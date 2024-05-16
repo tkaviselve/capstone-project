@@ -30,7 +30,7 @@ To run the Gold Rate Calculator FrontEnd locally, follow these steps:
 2. Navigate to the project directory:
    
    ```bash
-   cd Gold-Rate-Calculator-FrontEnd
+   cd capstone-project
 
 
 ## Contributing
