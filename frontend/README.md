@@ -1,4 +1,4 @@
-# Gold Rate Calculator FrontEnd
+# Gold Rate Calculator MERN Stack
 
 This repository contains the frontend code for the Gold Rate Calculator application.
 
@@ -8,7 +8,7 @@ The Gold Rate Calculator is a web application that allows users to calculate the
 
 ## Live Demo
 
-Check out the live demo of the Gold Rate Calculator FrontEnd: [Gold Rate Calculator](https://gold-rate-calculator-capstone.netlify.app/)
+Check out the live demo of the Gold Rate Calculator FrontEnd: [Gold Rate Calculator](https://gold-rate-calculator-frontend.netlify.app/login)
 
 ## Features
 
