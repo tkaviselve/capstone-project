@@ -14,6 +14,7 @@ router.get('/', function(req, res, next) {
 
 router.post('/ind_rate', async(req,res)=>{
     if(req.body.currency == 'INR'){
+        await goldINR.deleteMany({ currency: 'INR' });
         await goldINR.create(req.body);
         res.send('Data added');
     }else{
