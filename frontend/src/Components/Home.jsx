@@ -49,7 +49,7 @@ export default function Home() {
   }, [navigate]);
 
   const handleCalculate = async () => {
-    const res = await fetch(${url}/gold_rate/ind_gold_rate);
+    const res = await fetch(`${url}/gold_rate/ind_gold_rate`);
     const data = await res.json();
     const price = data.price;
 
