@@ -34,10 +34,3 @@ git clone https://github.com/tkaviselve/capstone-project.git
 cd capstone-project
 ```
 
-**License**
-
-This project is licensed under the MIT License.
-
-**Contact**
-
-For any inquiries, please contact Kavitha at [tkaviselva@gmail.com](mailto:tkaviselva@gmail.com).
